@@ -1,0 +1,13 @@
+  body{
+       margin-top: 20px;
+       max-width:400px;
+       background-color: rgb(181, 230, 230);
+       text-decoration: dotted;
+       border-radius:25px;
+
+ 
+      }
+  .profile{
+     width: 350px;
+     border-radius:50%;
+  }    
